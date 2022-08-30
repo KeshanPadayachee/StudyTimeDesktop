@@ -1,0 +1,18 @@
+﻿<Window x:Class="StudyTime.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudyTime"
+        mc:Ignorable="d"
+        Title="Main Menu" Height="450" Width="800" WindowStartupLocation="CenterScreen" ShowInTaskbar="False" ResizeMode="NoResize">
+    <Grid x:Name="grdBackground1" Background="Black">
+        <Grid x:Name="grdBackground2" Background="Turquoise" Margin="30,30,30,30">
+            <Label x:Name="lblHeading" Content="STUDY TIME" HorizontalAlignment="Center" Margin="0,22,0,0" VerticalAlignment="Top" FontSize="72" FontWeight="Bold"/>
+            <Button x:Name="btnLogIn" Content="LOG IN" HorizontalAlignment="Left" Margin="95,208,0,0" VerticalAlignment="Top" Height="107" Width="243" FontSize="36" FontWeight="Bold" Background="Black" Foreground="Turquoise" Click="btnLogIn_Click"/>
+            <Button x:Name="btnSignUp" Content="SIGN UP" Margin="402,208,95,0" VerticalAlignment="Top" Height="107" FontSize="36" FontWeight="Bold" Background="Black" Foreground="Turquoise" Click="btnSignUp_Click"/>
+            <Label x:Name="lblSubheading" Content="What would you like to do?" HorizontalAlignment="Center" Margin="0,133,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+
+        </Grid>
+    </Grid>
+</Window>

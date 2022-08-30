@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = StudyTime
+build_property.ProjectDir = E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\

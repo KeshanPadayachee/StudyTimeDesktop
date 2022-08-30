@@ -1,0 +1,158 @@
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\StudyTime.exe
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\StudyTime.deps.json
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\StudyTime.runtimeconfig.json
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\StudyTime.runtimeconfig.dev.json
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\StudyTime.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\ref\StudyTime.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\StudyTime.pdb
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\StudyTime.csproj.AssemblyReference.cache
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\CreateAccount.g.cs
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\LogIn.g.cs
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\Portal.g.cs
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\StudyTime_MarkupCompile.cache
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\StudyTime_MarkupCompile.lref
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\CreateAccount.baml
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\LogIn.baml
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\Portal.baml
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\StudyTime.g.resources
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\StudyTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\StudyTime.AssemblyInfoInputs.cache
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\StudyTime.AssemblyInfo.cs
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\StudyTime.csproj.CoreCompileInputs.cache
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\StudyTime.dll
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\ref\StudyTime.dll
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\StudyTime.pdb
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\StudyTime.genruntimeconfig.cache
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Keshan\Desktop\StudyTime\obj\Debug\net5.0-windows\StudyTime.csproj.CopyComplete
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\StudyTime\bin\Debug\net5.0-windows\StudyTimeLibrary.pdb
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\StudyTime.exe
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\StudyTime.deps.json
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\StudyTime.runtimeconfig.json
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\StudyTime.runtimeconfig.dev.json
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\StudyTime.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\ref\StudyTime.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\StudyTime.pdb
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\EntityFramework.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Humanizer.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\StudyTimeLibrary.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\bin\Debug\net5.0-windows\StudyTimeLibrary.pdb
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\StudyTime.csproj.AssemblyReference.cache
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\CreateAccount.g.cs
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\LogIn.g.cs
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\Portal.g.cs
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\App.g.cs
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\StudyTime_MarkupCompile.cache
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\StudyTime_MarkupCompile.lref
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\CreateAccount.baml
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\LogIn.baml
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\MainWindow.baml
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\Portal.baml
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\StudyTime.g.resources
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\StudyTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\StudyTime.AssemblyInfoInputs.cache
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\StudyTime.AssemblyInfo.cs
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\StudyTime.csproj.CoreCompileInputs.cache
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\StudyTime.csproj.CopyComplete
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\StudyTime.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\ref\StudyTime.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\StudyTime.pdb
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\StudyTime.genruntimeconfig.cache
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\ChangePassword.g.cs
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\ChangePassword.baml
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\UpdateSemesterDetails.g.cs
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\UpdateSemesterDetails.baml
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\PrintStudyRecord.g.cs
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTime\obj\Debug\net5.0-windows\PrintStudyRecord.baml
